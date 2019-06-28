@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Крестики-Нолики\XO_Project\XO_Project\bin\Debug\XO_Project.exe.config
+C:\Users\Admin\Desktop\Крестики-Нолики\XO_Project\XO_Project\bin\Debug\XO_Project.exe
+C:\Users\Admin\Desktop\Крестики-Нолики\XO_Project\XO_Project\bin\Debug\XO_Project.pdb
+C:\Users\Admin\Desktop\Крестики-Нолики\XO_Project\XO_Project\obj\Debug\XO_Project.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Крестики-Нолики\XO_Project\XO_Project\obj\Debug\XO_Project.Properties.Resources.resources
+C:\Users\Admin\Desktop\Крестики-Нолики\XO_Project\XO_Project\obj\Debug\XO_Project.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Крестики-Нолики\XO_Project\XO_Project\obj\Debug\XO_Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Крестики-Нолики\XO_Project\XO_Project\obj\Debug\XO_Project.exe
+C:\Users\Admin\Desktop\Крестики-Нолики\XO_Project\XO_Project\obj\Debug\XO_Project.pdb
+C:\Users\Admin\Desktop\Крестики-Нолики\XO_Project\XO_Project\obj\Debug\XO_Project.GameForm.resources
+C:\Users\Admin\Desktop\Крестики-Нолики\XO_Project\XO_Project\obj\Debug\XO_Project.InfoForm.resources
+C:\Users\Admin\Desktop\Крестики-Нолики\XO_Project\XO_Project\obj\Debug\XO_Project.MenuForm.resources
+C:\Users\Admin\Desktop\Крестики-Нолики\XO_Project\XO_Project\obj\Debug\XO_Project.AboutForm.resources
